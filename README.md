@@ -7,7 +7,7 @@ MENTOR:Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
 
-project:Create a simple vulnerability scanning tool that scans a network or website for common security vulnerabilities such as open ports, outdated software versions, and misconfigurations.
+project:VULNERABILITY SCANNING TOOL
 
 objective:
 Here's a high-level overview of how to create a simple vulnerability scanning tool that scans a network or website for common security vulnerabilities such as open ports, outdated software versions, and misconfigurations:
