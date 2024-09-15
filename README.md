@@ -53,3 +53,7 @@ Report Generator Module
 Generate a report: Generate a report of the scan results, including identified vulnerabilities, severity levels, and recommendations for remediation.
 Include detailed information: Include detailed information about each identified vulnerability, including CVE ID, description, and affected software versions.
 Provide remediation recommendations: Provide recommendations for remediation, including patching, configuration changes, and security best practices.
+
+OUTPUT:
+
+![WhatsApp Image 2024-09-15 at 5 16 27 PM](https://github.com/user-attachments/assets/3f29170a-f4fa-4ef6-9446-3cc00c59e6be)
